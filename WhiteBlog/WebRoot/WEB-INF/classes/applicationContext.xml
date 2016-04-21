@@ -9,7 +9,7 @@
 	<bean id="dataSource"
 		class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="url"
-			value="jdbc:mysql://10.125.103.139/project">
+			value="jdbc:mysql://10.125.103.139/whiteblog">
 		</property>
 		<property name="username" value="qwe"></property>
 		<property name="password" value="123"></property>
